@@ -18,7 +18,11 @@ Import the custom element by:
 ## Usage
 Include the <daube-main-container> custom element in the html page
 ```html
-<daube-main-container></daube-main-container>
+<daube-main-container>
+  <div slot="maincontent">
+    ---Put the content here---
+  </div>
+</daube-main-container>
 ```
 
 ## Options
