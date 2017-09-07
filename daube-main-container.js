@@ -32,7 +32,7 @@ template.innerHTML = `
   </style>
 
   <section>
-    <slot name="maincontent"></slot>
+    <slot></slot>
   </section>
 `
 
