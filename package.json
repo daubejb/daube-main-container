@@ -1,6 +1,6 @@
 {
   "name": "daube-main-container",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A material-influenced, vanilla js main container custom element.",
   "repository": {
     "type": "git",
